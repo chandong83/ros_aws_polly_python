@@ -31,7 +31,7 @@ $ . devel/setup.bash
 </pre>
 
 
-## Code Download and Build  
+## Run ROS and Test
 <pre><code>
 # start roscore with daemon
 $ roscore &
