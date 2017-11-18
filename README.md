@@ -5,7 +5,8 @@ aws(amazon web service) polly by python
 amazon polly TTS for ROS
 
 
-It currently supports Only Korean and English.
+It currently supports Only Korean('eoyeon') and English('Joanna').
+The language is automatically detected.
 
 ## requirement  
 <pre><code>
