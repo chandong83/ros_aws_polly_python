@@ -9,6 +9,11 @@ It currently supports Only Korean('eoyeon') and English('Joanna').
 The language is automatically detected.
 
 ## requirement  
+
+You must have credentials access key of aws first.
+please refer to the link below.
+http://docs.aws.amazon.com/ko_kr/IAM/latest/UserGuide/id_credentials_access-keys.html
+
 <pre><code>
 #Python Packages
 
