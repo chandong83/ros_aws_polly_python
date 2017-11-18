@@ -4,6 +4,9 @@ aws(amazon web service) polly by python
 
 amazon polly TTS for ROS
 
+
+It currently supports Only Korean and English.
+
 ## requirement  
 <pre><code>
 #Python Packages
