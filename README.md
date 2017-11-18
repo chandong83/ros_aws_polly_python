@@ -10,8 +10,8 @@ The language is automatically detected.
 
 ## requirement  
 
-You must have credentials access key of aws first.
-please refer to the link below.
+You must have credentials access key of aws first.<br>
+please refer to the link below.<br>
 http://docs.aws.amazon.com/ko_kr/IAM/latest/UserGuide/id_credentials_access-keys.html
 
 <pre><code>
