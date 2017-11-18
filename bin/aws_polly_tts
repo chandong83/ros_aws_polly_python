@@ -1,0 +1,6 @@
+#! /usr/bin/env python
+import polly_package.say_amazon
+
+
+if __name__ == '__main__':
+   polly_package.say_amazon.aws_polly()

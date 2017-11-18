@@ -1,0 +1,9 @@
+#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+import polly_package.hello
+import time
+
+if __name__ == '__main__':
+   polly_package.hello.say('안녕하세요. 저는 아슬이에요. 만나서 반갑습니다.')
+   time.sleep(5)
+   polly_package.hello.say('Hello, I am Asul!. Nice to meet you!')
