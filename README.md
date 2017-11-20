@@ -18,7 +18,7 @@ http://docs.aws.amazon.com/ko_kr/IAM/latest/UserGuide/id_credentials_access-keys
 #Python Packages
 
 $ pip install boto3 # Amazon SDK
-$ pip install vlc   # vlc player
+$ pip install python-vlc   # vlc player
 </code>
 </pre>
 
